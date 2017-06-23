@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6ca39a7dcceb84c88b7769c4ed3b30, type: 3}
+  m_Name: Interceptor
+  m_EditorClassIdentifier: 
+  health: 1
+  damage: 1
+  mass: 5
+  explosionPrefab: {fileID: 198310319928047918, guid: d369c8f4cdd410647968d7e6049e4a67,
+    type: 2}
+  objectPrefab: {fileID: 114856254019168728, guid: edbfc3c98bef33f40a65d207e9ced8ba,
+    type: 2}
+  initialNumberOfInstances: 10
+  spawnChances: 3
+  requiredHostility: 0
+  hostilitySpawnModifier: 8
+  objectType: 5
+  speed: 1
+  HostilityModifier: 0
+  objectName: Interceptor
+  objectDescription: Small enemy spaceship that fires lasers at the ship
+  objectIcon: {fileID: 21300000, guid: bf488f7801d6c994fae8162ca2f86065, type: 3}
+  aliveTime: 5

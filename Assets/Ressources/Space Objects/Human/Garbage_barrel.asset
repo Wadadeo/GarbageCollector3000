@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6ca39a7dcceb84c88b7769c4ed3b30, type: 3}
+  m_Name: Garbage_barrel
+  m_EditorClassIdentifier: 
+  health: 1
+  damage: 0
+  mass: 1
+  explosionPrefab: {fileID: 198310319928047918, guid: d369c8f4cdd410647968d7e6049e4a67,
+    type: 2}
+  objectPrefab: {fileID: 114365968618964466, guid: 404695b615786094eb80deccfeaafe02,
+    type: 2}
+  initialNumberOfInstances: 12
+  spawnChances: 12
+  requiredHostility: 0
+  hostilitySpawnModifier: 0
+  objectType: 8
+  speed: 0
+  HostilityModifier: -0.03
+  objectName: Radioactive Barrel
+  objectDescription: A barrel containing radiocative waste. When collected decrease
+    your hostility meter.
+  objectIcon: {fileID: 21300000, guid: 6961e2f4bb33f6b4bbacb6fb720dbb2b, type: 3}
+  aliveTime: 5

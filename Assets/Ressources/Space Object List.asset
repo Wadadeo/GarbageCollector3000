@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b43c75d5e2ffd17428ef0c3d300d4549, type: 3}
+  m_Name: Space Object List
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 11400000, guid: 4e12aeb46cdaafb40a8557940a0abbec, type: 2}
+  - {fileID: 11400000, guid: 0ddad6ef007e7e14eac192daa036cd76, type: 2}
+  - {fileID: 11400000, guid: 4967514ec5a394642890b24c6668c8ff, type: 2}
+  - {fileID: 11400000, guid: 8778a86001e98704ab42c0010c4626f5, type: 2}
+  - {fileID: 11400000, guid: 7f0d5815cd4d1da459904b6182b2d66d, type: 2}
+  - {fileID: 11400000, guid: bb2f9d341e2247c4ba20894d81e99ee0, type: 2}
+  - {fileID: 11400000, guid: 374b130c9cd0693488b4d60d0f1bf1ef, type: 2}
+  - {fileID: 11400000, guid: d39503e07027f984da40d8caff1201a1, type: 2}
+  - {fileID: 11400000, guid: 426a5b61d0517bf41b450c342d76050f, type: 2}
